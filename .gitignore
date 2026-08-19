@@ -1,0 +1,20 @@
+# C build artifacts
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.dll
+
+# Build directories
+build/
+bin/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.user
+
+# Operating system files
+Thumbs.db
+.DS_Store
