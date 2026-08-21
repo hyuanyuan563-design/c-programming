@@ -12,7 +12,7 @@ bin/
 
 # IDE and editor files
 .idea/
-.vscode/
+.vscode/*.log
 *.user
 
 # Operating system files
